@@ -15,16 +15,14 @@ To run this sample on localhost use following steps :
 		 c. $ npm install body-parser
 
 
-	iv. Now come to database database
+	iv. Now come to database part
 		import demo_db.sql
 
 
-	v. Done. :)
+	v. Here we go...now again go to cmd type command : $ node app.js if we get result connected in cmd then open index.html file on browser fill the info we will get result :)
 
 
-	vi. Here we go...now again go to cmd type command : $ node app.js if we get result connected in cmd then open index.html file on browser fill the info we will get result :)
-
-
+	vi. We are done... hopefully :)
 
 
 	HHHHHHHHAAAAAAAPPPPPPPYYYYYYYY CCCCCOOOOOODDDDDDDIIIIIIINNNNNNNNGGGGGGG
